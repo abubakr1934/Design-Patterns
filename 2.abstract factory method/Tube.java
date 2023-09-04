@@ -1,0 +1,3 @@
+interface Tube {
+    void gettube();
+}

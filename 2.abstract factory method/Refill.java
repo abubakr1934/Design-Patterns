@@ -1,0 +1,3 @@
+interface Refill {
+    void getrefill();
+}
