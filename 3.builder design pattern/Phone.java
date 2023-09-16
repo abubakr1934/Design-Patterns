@@ -51,3 +51,22 @@ public class Phone {
 
     }
 }
+
+
+// class object{
+//     int a;
+//     //constructor
+
+//     void add(object b)
+//     {
+//         int c=this.a+b.a;
+//         sout(c);
+//     }
+// }
+// class main{
+//     psvm{
+//         object a =new object(10)
+//         object b=new object(15)
+
+//             a.add(b)
+            
